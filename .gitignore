@@ -130,4 +130,4 @@ dmypy.json
 .pyre/
 
 #Personalizado
-canciones/*.mp3
+*.mp3
